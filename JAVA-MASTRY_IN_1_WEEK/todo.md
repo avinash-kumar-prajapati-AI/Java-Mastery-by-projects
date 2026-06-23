@@ -20,7 +20,7 @@
 ## Progress Tracker
 
 - [x] Project 1: Simple Calculator ✅
-- [ ] Project 2: Number Guessing Game
+- [x] Project 2: Number Guessing Game ✅
 - [ ] Project 3: Temperature Converter
 - [ ] Project 4: Student Grade Manager
 - [ ] Project 5: ATM Machine (Basic)
