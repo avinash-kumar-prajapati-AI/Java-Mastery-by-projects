@@ -21,7 +21,7 @@
 
 - [x] Project 1: Simple Calculator ✅
 - [x] Project 2: Number Guessing Game ✅
-- [ ] Project 3: Temperature Converter
+- [x] Project 3: Temperature Converter ✅
 - [ ] Project 4: Student Grade Manager
 - [ ] Project 5: ATM Machine (Basic)
 - [ ] Project 6: Library Management System
